@@ -22,3 +22,5 @@ def menu():
 
     else:
      print("Escolha uma opção válida de 1 a 2")
+
+menu()
